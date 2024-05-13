@@ -1,0 +1,62 @@
+
+
+body {
+    width: 1440px;
+    height:790px;
+    background:hsl(0, 0%, 8%);
+
+.container {
+    width:385px;
+    height:610px;
+    border:orange solid 1px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:172px;
+    margin-bottom:172px;
+    border-radius:10px;
+    background:hsl(0, 0%, 12%);
+    overflow:hidden;
+
+}
+  
+  .tab-1 {
+  width:305px;
+  height:45px;
+  background:orange;
+  border:1px orange solid;
+      margin-left:auto;
+    margin-right:auto;
+  }
+  
+  .tab-2 {
+  width:305px;
+  height:45px;
+  background:orange;
+  border:1px orange solid;
+      margin-left:auto;
+    margin-right:auto;
+  }
+  .tab-3 {
+  width:305px;
+  height:45px;
+  background:orange;
+  border:1px orange solid;
+      margin-left:auto;
+    margin-right:auto;
+  }
+  .tab-4 {
+  width:305px;
+  height:45px;
+  background:orange;
+  border:1px orange solid;
+  margin-left:auto;
+    margin-right:auto;
+  }
+  .tab-5 {
+  width:305px;
+  height:45px;
+  background:orange;
+  border:1px orange solid;
+      margin-left:auto;
+    margin-right:auto;
+  }
