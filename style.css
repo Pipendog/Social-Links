@@ -1,7 +1,4 @@
-html {
-  cursor:pointer;
-  color:white;
-}
+
 
 body {
     width: 1440px;
@@ -12,12 +9,11 @@ body {
 .container {
     width:385px;
     height:610px;
-   
     margin-left: auto;
     margin-right: auto;
     margin-top:172px;
     margin-bottom:172px;
-    border-radius:10px;
+    border-radius:8px;
     background:hsl(0, 0%, 12%);
     overflow:hidden;
 
@@ -41,23 +37,29 @@ a {
 
 a:hover {
   color:black;
+  cursor:pointer;
 }
 
 .button-1:hover {
-  background:hsl(75, 94%, 57%)
+  background:hsl(75, 94%, 57%);
+  cursor:pointer;
 }
 .button-2:hover {
-  background:hsl(75, 94%, 57%)
+  background:hsl(75, 94%, 57%);
+  cursor:pointer;
   }
 .button-3:hover {
-  background:hsl(75, 94%, 57%)
+  background:hsl(75, 94%, 57%);
+  cursor:pointer;
   }
 .button-4:hover {
-  background:hsl(75, 94%, 57%)
+  background:hsl(75, 94%, 57%);
+  cursor:pointer;
   }
 
 .button-5:hover {
-  background:hsl(75, 94%, 57%)
+  background:hsl(75, 94%, 57%);
+  cursor:pointer;
 }
   
 h1 {
@@ -66,7 +68,8 @@ h1 {
   text-align:center;
   font-size:24px;
   position:relative;
-  top:45.5px;
+  top:45px;
+  font-weight:500;
 }
 
 .loc {
@@ -99,7 +102,7 @@ h1 {
     margin-right:auto;
     border-radius:10px;
     position:relative;
-    top:62px;
+    top:63px;
     font-size:14px;
     font-weight:700;
     
@@ -113,7 +116,7 @@ h1 {
   margin-right:auto;
   border-radius:10px;
   position:relative;
-    top:37px;
+    top:25px;
     font-size:14px;
     font-weight:700;
   }
@@ -125,7 +128,7 @@ h1 {
     margin-right:auto;
         border-radius:10px;
     position:relative;
-    top:14px;
+    top:-8px;
     font-size:14px;
     font-weight:700;
    
@@ -139,7 +142,7 @@ h1 {
   margin-right:auto;
    border-radius:10px;
     position:relative;
-    top:-9px;
+    top:-43px;
     font-size:14px;
     font-weight:700;
   }
@@ -152,7 +155,7 @@ h1 {
   margin-right:auto;
   border-radius:10px;
   position:relative;
-  top:-12px;
+  top:-59px;
     font-size:14px;
     font-weight:700;
   }
@@ -164,17 +167,30 @@ p {
   
 }
 
+.one {
+  position:relative;
+  top:14px;
+}
+
 .two {
   position:relative;
-  top:-1px;
+  top:14px;
+}
+
+.three {
+  position:relative;
+  top:13px;
 }
 
 .four {
   position:relative;
-  top:1px;
+  top:14px;
 }
 
-
+.five {
+  position:relative;
+  top:14px;
+}
 
  @media (max-width:475px) {
   
