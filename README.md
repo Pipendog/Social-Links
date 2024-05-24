@@ -29,5 +29,10 @@ I also looked at the design they made for 375px but I do not have a device like 
 <br>
 <br>
 Any suggestions or advice would be much appreaciated.
+<br>
+<br>
+Author: Danielfww
+
+Credits: Shotouts to https://github.com/Pipendog and https://github.com/NobelBeastPrize for always being there for me.
 
 
