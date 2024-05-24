@@ -1,7 +1,7 @@
 <b>Social Links Challenge</b>
 <br>
-
 <br>
+![desktop-preview](https://github.com/Danielfww/Social-Links/assets/158219974/36152dc5-18ea-4f59-95cc-e7d1e9e59814)
 <br>
 <br>
 Your challenge is to build out this order summary card component and get it looking as close to the design as possible.
