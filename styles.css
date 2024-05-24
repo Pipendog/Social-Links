@@ -200,12 +200,12 @@ p {
       height:670px;
   }
   
-   .container {
-    height:660px;
+ .container {
+    height:630px;
     width:375px;
     margin-left:auto;
     margin-right:auto;
-    margin-top:20px;
+    margin-top:40px;
    }
   
 }
